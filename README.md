@@ -19,13 +19,8 @@ Despite progress in reducing infant mortality rates globally, challenges persist
 <li>Experimented with different Machine Learning algorithms Multiple Linear Regression, Random Forest, KNN, Bagging, and Boosting.
 <li>Compared the results to recommend the best Machine Learning model.
 </ul>
+<br>
 
 <hr>
-
-DOCUMENT LINK : https://docs.google.com/document/d/17VDkw4bVkXavaDD_bNubR_pJxre_tKlBvctiVQ-LWQ8/edit?usp=drive_link
-
-COLAB NOTEBOOK LINK : https://colab.research.google.com/drive/1xGCd5ft6eCF_CFJz4FpjUf8SpPFxsYuh?usp=drive_link
-
-PRESENTATION LINK: https://docs.google.com/presentation/d/1-AIGJfcVjd-7omIF0v-EnSxMXxmLNFZK6XO4DmIH7D4/edit?usp=drive_link
 
 
