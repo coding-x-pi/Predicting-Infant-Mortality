@@ -18,6 +18,7 @@ Despite progress in reducing infant mortality rates globally, challenges persist
 <li>Features were selected based on the statistical significance test</li>
 <li>Experimented with different Machine Learning algorithms Multiple Linear Regression, Random Forest, KNN, Bagging, and Boosting.
 <li>Compared the results to recommend the best Machine Learning model.
+  <p> Multiple Linear Regression, Random Forest, and KNN were the best model that  predicted infant mortality</p>
 </ul>
 <br>
 
